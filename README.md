@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bikram 
+## My name is Bikram and here's a little bit about me ⬇️
 <img align="right" alt="GIF" width=250 src="https://github.com/bikramjitnarwal/bikramjitnarwal/blob/main/static/codingMeme.gif" />
 
 
