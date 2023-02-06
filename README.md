@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" width=250 src="https://github.com/bikramjitnarwal/bikramjitnarwal/blob/main/static/codingMeme.gif" />
 
 
-- <img src="static/soti-logo.jpg" width=15> Just completed a Product Management internship at SOTI on Windows 10 Team this past year
+- <img src="static/soti-logo.jpg" width=15> Just completed a Product Management internship at SOTI on the Windows 10 Team this past year
 - <img src="static/Manulife logo.png" width=15> Previously was a Software Engineer intern at Manulife where I worked on the insurance policy team 
-- <img src="static/uoftlogo.png" width=15> I am a 4th-year Computer Engineering student at the University of Toronto with a minor in Artificial Intelligence 
+- <img src="static/uoftlogo.png" width=15> I am currently a 4th-year Computer Engineering student at the University of Toronto with a minor in Artificial Intelligence 
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/bikramjitnarwal/)
 
 <!--
