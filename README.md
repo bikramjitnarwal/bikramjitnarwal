@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - <img src="static/soti-logo.jpg" width=15> Just completed a Product Management internship at SOTI on Windows 10 Team this past year
-
+- <img src="static/Manulife logo.png" width=15> Previously was a Software Engineer intern at Manulife where I worked on the Manulife 
+- 
 <!--
 **bikramjitnarwal/bikramjitnarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
