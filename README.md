@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm Bikram 
-<img align="right" alt="GIF" src="https://github.com/Paulinakhew/wiki/blob/master/.gitbook/assets/happy.gif" />
 
 
 - <img src="static/soti-logo.jpg" width=15> Just completed a Product Management internship at SOTI on Windows 10 Team this past year
