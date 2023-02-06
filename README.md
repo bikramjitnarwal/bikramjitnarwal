@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Bikram 
-<img align="right" alt="GIF" width=450 src="https://github.com/bikramjitnarwal/bikramjitnarwal/blob/main/static/codingMeme.gif" />
+<img align="right" alt="GIF" width=250 src="https://github.com/bikramjitnarwal/bikramjitnarwal/blob/main/static/codingMeme.gif" />
 
 
 - <img src="static/soti-logo.jpg" width=15> Just completed a Product Management internship at SOTI on Windows 10 Team this past year
